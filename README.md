@@ -1,5 +1,5 @@
-# dio-desafio-githhub-primeiro-repositorio
+# Repostório do Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para Desafio de Projeto.
 
-##Links Úteis
+## Links Úteis
 [Sintaxe  Basica Markdown](www.markdownguide.org/basic-syntax/)
